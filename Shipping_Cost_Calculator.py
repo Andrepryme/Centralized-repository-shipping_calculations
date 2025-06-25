@@ -1,4 +1,4 @@
- # Here is a new update by <your GitHub username>
+ # Here is a new update by Andrepryme
 
 ## Input package weight and shipping rate
 weight = float(input("Enter the package weight in kilograms: "))
